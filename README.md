@@ -1,5 +1,5 @@
 <!-- Animated typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+Aya+Mostafa!;🎯+Data+Analyst+%7C+Python+Developer+%7C+Database+Enthusiast+%7C+Data+Scientiest+%7CAi+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+Aya+Mostafa!;🎯+Data+Analyst+%7C+Python+Developer+%7C+Database+Enthusiast)](https://git.io/typing-svg)
 
 💡 Turning data into insights & building intelligent systems.
 
