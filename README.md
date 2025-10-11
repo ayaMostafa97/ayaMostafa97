@@ -1,5 +1,12 @@
 <!-- 💫 Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Aya+Mostafa!;🎯<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Developer;Database+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Aya+Mostafa!" alt="Aya Mostafa" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Developer;Database+Enthusiast;Machine+Learning+Explorer" alt="Typing Roles" />
+</p>
+
 <p align="center">
 💡 Turning data into insights & building intelligent systems.
 </p>
