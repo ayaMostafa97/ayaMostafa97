@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Aya Mostafa  
 
-<!--
-**ayaMostafa97/ayaMostafa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 *Data Analyst | Python Developer | Database Enthusiast*
 
-Here are some ideas to get you started:
+💡 Passionate about transforming data into insights, building intelligent systems, and solving real-world problems using code and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 What I Do
+- 📊 *Data Analysis & Visualization* – Turning raw data into insights using Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 🧠 *Machine Learning* – Building predictive models and analyzing patterns
+- 🗄 *Databases* – Working with PostgreSQL, MySQL, and database integration with Python
+- 💻 *Problem Solving* – Practicing algorithms & data structures on LeetCode and HackerRank
+- ⚙ *Python & OOP Projects* – Writing clean, modular, and reusable code
+
+---
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?logo=matplotlib&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+| Project | Description |
+|----------|--------------|
+| 🏠 *Housing Dashboard* | Data visualization & linear regression model |
+| 📈 *Sales Forecasting* | Time series forecasting and optimization |
+| 🗄 *Database Management* | PostgreSQL integration and SQL queries |
+| 🧮 *Problem Solving Hub* | Python solutions for coding challenges |
+
+---
+
+## 📊 GitHub Stats
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaMostafa97&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaMostafa97&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-mostafa9)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayamostafashegata7@gmail.com)
+
+---
+
+### 🌱 Currently Learning
+- Power BI  
+- Advanced SQL  
+- Machine Learning Model Optimization  
+- Data Engineering Basics  
+
+---
+
+✨ “Turning data into knowledge and code into solutions.”
