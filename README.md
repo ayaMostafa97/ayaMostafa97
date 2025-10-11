@@ -1,4 +1,12 @@
-# 👋 Hi, I'm Aya Mostafa  
+<h1 align="center">👋 Hi, I'm Aya Mostafa</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+Developer;Database+Enthusiast;Machine+Learning+Explorer;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 🎯 *Data Analyst | Python Developer | Database Enthusiast*
 
@@ -7,15 +15,15 @@
 ---
 
 ## 🧩 What I Do
-- 📊 *Data Analysis & Visualization* – Turning raw data into insights using Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 🧠 *Machine Learning* – Building predictive models and analyzing patterns
-- 🗄 *Databases* – Working with PostgreSQL, MySQL, and database integration with Python
-- 💻 *Problem Solving* – Practicing algorithms & data structures on LeetCode and HackerRank
-- ⚙ *Python & OOP Projects* – Writing clean, modular, and reusable code
+- 📊 **Data Analysis & Visualization** – Turning raw data into insights using Python *(Pandas, NumPy, Matplotlib, Seaborn)*  
+- 🧠 **Machine Learning** – Building predictive models and analyzing patterns  
+- 🗄️ **Databases** – Working with PostgreSQL, MySQL, and database integration with Python  
+- 💻 **Problem Solving** – Practicing algorithms & data structures on LeetCode and HackerRank  
+- ⚙️ **Python & OOP Projects** – Writing clean, modular, and reusable code  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -29,28 +37,38 @@
 ---
 
 ## 🚀 Featured Projects
-| Project | Description |
-|----------|--------------|
-| 🏠 *Housing Dashboard* | Data visualization & linear regression model |
-| 📈 *Sales Forecasting* | Time series forecasting and optimization |
-| 🗄 *Database Management* | PostgreSQL integration and SQL queries |
-| 🧮 *Problem Solving Hub* | Python solutions for coding challenges |
+
+| 💡 Project | 📝 Description |
+|-------------|----------------|
+| 🏠 **Housing Dashboard** | Data visualization & linear regression model |
+| 📈 **Sales Forecasting** | Time series forecasting and optimization |
+| 🗄️ **Database Management** | PostgreSQL integration and SQL queries |
+| 🧮 **Problem Solving Hub** | Python solutions for coding challenges |
 
 ---
 
 ## 📊 GitHub Stats
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaMostafa97&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaMostafa97&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaMostafa97&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaMostafa97&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-mostafa9)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayamostafashegata7@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aya-mostafa9">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ayamostafashegata7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 - Power BI  
 - Advanced SQL  
 - Machine Learning Model Optimization  
@@ -58,4 +76,6 @@
 
 ---
 
-✨ “Turning data into knowledge and code into solutions.”
+<p align="center">
+  ✨ <i>"Turning data into knowledge and code into solutions."</i> ✨
+</p>
