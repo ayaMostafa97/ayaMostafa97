@@ -26,11 +26,9 @@ Turning data into insights & building scalable, intelligent systems.
 
 | Category | Projects | Description |
 | :--- | :--- | :--- |
-| 🧬 **AI & Data Engineering** | [InnovisionRayS](https://github.com/ayaMostafa97/InnovisionRayS) | Radiology Data Platform using Medallion Architecture & Airflow |
-| 📊 **Data Analytics** | [BankSense](https://github.com/ayaMostafa97/BankSense) | Banking Analytics Dashboard with Power BI & DAX Modeling |
-| 🚖 **Data Warehousing** | [SmartMove_DW](https://github.com/ayaMostafa97/SmartMove_DW) | NYC Taxi Data Warehouse on SQL Server |
-| 🧠 **Machine Learning & NLP** | [Customer_Segmentation](https://github.com/ayaMostafa97/Customer_Segmentation) | ML Data Analysis and Customer Clustering |
-
+| 📊 **Data Science & ML** | [Customer_Segmentation](https://github.com/ayaMostafa97/Customer_Segmentation) | ML Data Analysis and Customer Clustering |
+| 🧬 **Data Science Diploma** | [DEPI AI & Data Science](https://github.com/ayaMostafa97/Depi_Amit_AI_BNS3) | Comprehensive AI & Data Science Track Projects |
+| 🧩 **Problem Solving** | [Problem-Solving](https://github.com/ayaMostafa97/Problem-Solving) | Data Structures, Algorithms & LeetCode Solutions |
 ---
 
 ### 🌐 Connect With Me
