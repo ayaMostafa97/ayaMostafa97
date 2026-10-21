@@ -26,8 +26,9 @@ Turning data into insights & building scalable, intelligent systems.
 
 | Category | Projects | Description |
 | :--- | :--- | :--- |
-| 📊 **Data Science & ML** | [Customer_Segmentation](https://github.com/ayaMostafa97/Customer_Segmentation) | ML Data Analysis and Customer Clustering |
-| 🧬 **Data Science Diploma** | [DEPI AI & Data Science](https://github.com/ayaMostafa97/Depi_Amit_AI_BNS3) | Comprehensive AI & Data Science Track Projects |
+| 📊 **Data Analytics** | [BankSense](https://github.com/ayaMostafa97/BankSense) | Banking Analytics Solution using SQL, Power BI & Python |
+| 🧬 **Data Science & ML** | [Customer_Segmentation](https://github.com/ayaMostafa97/Customer_Segmentation) | ML Data Analysis and Customer Clustering |
+| 🎓 **Data Science Diploma** | [DEPI AI & Data Science](https://github.com/ayaMostafa97/Depi_Amit_AI_BNS3) | Comprehensive AI & Data Science Track Projects |
 | 🧩 **Problem Solving** | [Problem-Solving](https://github.com/ayaMostafa97/Problem-Solving) | Data Structures, Algorithms & LeetCode Solutions |
 
 ---
