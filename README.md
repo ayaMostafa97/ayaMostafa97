@@ -29,12 +29,13 @@ Turning data into insights & building scalable, intelligent systems.
 | 📊 **Data Science & ML** | [Customer_Segmentation](https://github.com/ayaMostafa97/Customer_Segmentation) | ML Data Analysis and Customer Clustering |
 | 🧬 **Data Science Diploma** | [DEPI AI & Data Science](https://github.com/ayaMostafa97/Depi_Amit_AI_BNS3) | Comprehensive AI & Data Science Track Projects |
 | 🧩 **Problem Solving** | [Problem-Solving](https://github.com/ayaMostafa97/Problem-Solving) | Data Structures, Algorithms & LeetCode Solutions |
+
 ---
 
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayamostafashehata7@gmail.com)
 
 ---
 > *"Turning data into knowledge and code into solutions."*
